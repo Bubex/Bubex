@@ -15,13 +15,13 @@ Nossos principais valores incluem:
 - Excelência técnica 🛠️
 - Foco no cliente 🌟
 
-## 💼 Minha Experiência
+<!--## 💼 Minha Experiência
 
 Além de ser o fundador da X6 Tech, tenho uma vasta experiência no setor de tecnologia. Ao longo dos anos, trabalhei em uma variedade de projetos empolgantes e desafiadores, incluindo:
 
 - [Projeto 1]: Uma breve descrição do projeto e suas realizações.
 - [Projeto 2]: Outra descrição, mostrando sua versatilidade.
-- [Projeto 3]: Mais um projeto destacando sua experiência.
+- [Projeto 3]: Mais um projeto destacando sua experiência. -->
 
 ## 🔧 Tecnologias Favoritas
 
