@@ -3,7 +3,7 @@
 
 <img src="https://x6tech.com.br/wp-content/uploads/2023/09/logo-white-vectorized.png" alt="drawing" width="100"/>
 
-Olá, sou Marlon Ferreira, fundador da X6 Tech, uma empresa inovadora completamente focada em resolver problemas através da tecnologia. Aqui no meu espaço no GitHub, você encontrará uma janela para o nosso mundo de inovação e desenvolvimento tecnológico.
+Olá, sou Marlon Maccedo, fundador da X6 Tech, uma empresa inovadora completamente focada em resolver problemas através da tecnologia. Aqui no meu espaço no GitHub, você encontrará uma janela para o nosso mundo de inovação e desenvolvimento tecnológico.
 
 ## 🚀 Sobre a X6 Tech
 
@@ -39,7 +39,7 @@ Se você está interessado em contribuir com algum dos nossos projetos ou gostar
 
 ## 📫 Entre em Contato
 
-- [LinkedIn](https://www.linkedin.com/in/marlon-ferreira-dev/)
+- [LinkedIn](https://www.linkedin.com/in/marlonmaccedo/)
 - [Site da X6 Tech](https://www.x6tech.com.br)
 
 ## 🌟 Obrigado pela visita!
