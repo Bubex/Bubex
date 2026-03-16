@@ -1,47 +1,46 @@
-<!-- Título -->
-# Bem-vindo(a) ao Meu Universo Tech! 👋
+# Marlon Maccedo
 
-<img src="https://x6tech.com.br/wp-content/uploads/2023/09/logo-white-vectorized.png" alt="drawing" width="100"/>
+**AI Product Manager** · Blumenau, SC
 
-Olá, sou Marlon Maccedo, fundador da X6 Tech, uma empresa inovadora completamente focada em resolver problemas através da tecnologia. Aqui no meu espaço no GitHub, você encontrará uma janela para o nosso mundo de inovação e desenvolvimento tecnológico.
+[linkedin.com/in/marlonmaccedo](https://linkedin.com/in/marlonmaccedo) · marlonmcferreira@gmail.com
 
-## 🚀 Sobre a X6 Tech
+---
 
-A [X6 Tech](https://www.x6tech.com.br) é uma empresa que nasceu da paixão por resolver desafios complexos e da busca constante por novas soluções no mundo da tecnologia. Fundada em 2022, nossa missão é capacitar nossos clientes a prosperar na era digital, fornecendo soluções tecnológicas inovadoras e estratégias de marketing excepcionais.
+Comecei como desenvolvedor, virei Tech Lead e fui para Produto. Não por acidente - percebi que as decisões de maior impacto ficam na interseção entre profundidade técnica e visão de negócio.
 
-Nossos principais valores incluem:
+Trabalho com arquiteturas multi-agente, LangGraph, RAG e LLMs em produção. Consigo ter conversas técnicas reais com engenheiros, identificar riscos arquiteturais antes que virem problema, e transformar capacidades de IA em resultados que o negócio enxerga.
 
-- Inovação constante 💡
-- Excelência técnica 🛠️
-- Foco no cliente 🌟
+---
 
-<!--## 💼 Minha Experiência
+## Stack
 
-Além de ser o fundador da X6 Tech, tenho uma vasta experiência no setor de tecnologia. Ao longo dos anos, trabalhei em uma variedade de projetos empolgantes e desafiadores, incluindo:
+**IA / Agentes**
+`LangGraph` `LangChain` `Agno` `n8n` `RAG` `MCP` `Prompt Engineering (CoT, ToT)`
 
-- [Projeto 1]: Uma breve descrição do projeto e suas realizações.
-- [Projeto 2]: Outra descrição, mostrando sua versatilidade.
-- [Projeto 3]: Mais um projeto destacando sua experiência. -->
+**Desenvolvimento**
+`Python` `TypeScript` `Node.js` `NestJS` `FastAPI` `React` `Next.js`
 
-## 🔧 Tecnologias Favoritas
+**Cloud & Infra**
+`AWS` `GCP` `Azure`
 
-Em nossa jornada na X6 Tech, exploramos um vasto leque de tecnologias emocionantes. Algumas das minhas favoritas incluem:
+**Observabilidade & Dados**
+`Datadog` `Posthog` `Metabase` `GrowthBook`
 
-- JavaScript e Typescript
-- Node e Nest 
-- React e Next 
-- AWS 
-- Docker 
+**Prototipagem rápida**
+`Cursor` `Claude Code` `Lovable` `Replit`
 
-## 🌱 Contribuindo
+---
 
-Se você está interessado em contribuir com algum dos nossos projetos ou gostaria de discutir ideias e inovações, fique à vontade para entrar em contato! Estamos sempre em busca de mentes criativas e apaixonadas para se juntar à nossa equipe.
+## Algumas coisas que entreguei
 
-## 📫 Entre em Contato
+- Identifiquei o BYOK como gargalo de ativação em uma plataforma SaaS de IA → propus cota gratuita de LLM → **+40% de ativação**
+- Bloqueei uma decisão de investir em melhorias num sistema legado que já estava sendo substituído por uma migração quase concluída
+- Remapeei estrutura de banco em uma legal tech → **~95% de redução de custo na AWS**
+- Construí sistemas multi-agente com agentes especializados (cobrança, retenção, suporte técnico, vendas) rodando em produção
 
-- [LinkedIn](https://www.linkedin.com/in/marlonmaccedo/)
-- [Site da X6 Tech](https://www.x6tech.com.br)
+---
 
-## 🌟 Obrigado pela visita!
+## Contato
 
-Agradeço por explorar meu espaço no GitHub. Espero que você encontre aqui inspiração, conhecimento e talvez até mesmo uma colaboração futura. Vamos juntos construir um futuro tecnológico incrível!
+- [LinkedIn](https://linkedin.com/in/marlonmaccedo)
+- Aberto a conversas sobre produtos de IA e consultoria
