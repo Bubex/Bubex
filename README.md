@@ -34,7 +34,7 @@ Trabalho com arquiteturas multi-agente, LangGraph, RAG e LLMs em produção. Con
 ## Algumas coisas que entreguei
 
 - Identifiquei o BYOK como gargalo de ativação em uma plataforma SaaS de IA → propus cota gratuita de LLM → **+40% de ativação**
-- Bloqueei uma decisão de investir em melhorias num sistema legado que já estava sendo substituído por uma migração quase concluída
+- Otimizei os custos operacionais de uma empresa em mais de R$ 200.000,00 mensais com iniciativas de AI.
 - Remapeei estrutura de banco em uma legal tech → **~95% de redução de custo na AWS**
 - Construí sistemas multi-agente com agentes especializados (cobrança, retenção, suporte técnico, vendas) rodando em produção
 
